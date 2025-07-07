@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("feabf096-4851-48cd-bc97-dc022c868e46")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("WaterDistribution_MS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8210ae98f3e8303b37473245b8520a836d435de")]
 [assembly: System.Reflection.AssemblyProductAttribute("WaterDistribution_MS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WaterDistribution_MS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
